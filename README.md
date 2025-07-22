@@ -36,7 +36,7 @@ All persistent data — such as user credentials and account balances — are st
 
 ---
 
-##🔐 Password Encryption
+## 🔐 Password Encryption
 
 Passwords are encrypted before being saved to users.csv. You can see the original (plain) passwords in passwordsBeforeEnc.txt — this file is for testing purposes only and should be removed or excluded in production.
 

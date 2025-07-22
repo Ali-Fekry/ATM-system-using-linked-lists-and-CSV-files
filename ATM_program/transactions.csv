@@ -1,0 +1,9 @@
+Transaction_ID,User_ID,Transaction_type,Transaction_amount
+2890,1,D,100
+3376,1,W,10
+2420,1,W,100
+3674,1,W,20
+5278,2,W,200
+1123,2,D,500
+2695,2,D,500
+2741,2,W,250
